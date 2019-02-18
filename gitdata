@@ -1,0 +1,10 @@
+git remote add origin https://github.com/hiren1903/Github-learing.git
+git push -u origin master
+
+
+echo "# Github-learing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hiren1903/Github-learing.git
+git push -u origin master
